@@ -121,5 +121,5 @@ A simple Node.js and Express API for managing tasks with user authentication usi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todoapp-api.git
-   cd todoapp-api
+   git clone https://github.com/kennedykjj/to-do-list.git
+   cd to-do-list
